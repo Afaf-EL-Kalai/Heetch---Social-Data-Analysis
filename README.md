@@ -9,4 +9,4 @@ The second method :
 
 ![image](https://user-images.githubusercontent.com/86167253/155321718-d8161880-d5f3-45bc-9e8d-27f2d4013193.png)
 
-This couldn't be shown in this notbook so please try to execute the code yourself using jupyter or colab.
+This couldn't be shown in this notebook so please try to execute the code yourself using jupyter or colab.
